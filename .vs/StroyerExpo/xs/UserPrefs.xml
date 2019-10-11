@@ -2,7 +2,7 @@
   <MonoDevelop.Ide.Workbench ActiveDocument="Assets/scripts/follow.cs">
     <Files>
       <File FileName="Assets/scripts/playerMovement.cs" Line="15" Column="79" />
-      <File FileName="Assets/scripts/follow.cs" Line="7" Column="4" />
+      <File FileName="Assets/scripts/follow.cs" Line="16" Column="2" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -20,7 +20,7 @@
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="687019a7-cc51-4d84-86ec-306fa30cd912" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="5704db68-41d2-4316-bf40-fa710c4a4fb5" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
