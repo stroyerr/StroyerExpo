@@ -1,2 +1,19 @@
-# StroyerExpo
- Little game im working on to practice unity
+<html>
+<script>
+function click(){
+	invert(link);
+}
+
+function invert(a){
+	if (document.getElementById(a).style.display=="none"){
+		document.getElementById(a).style.display="inline-block";
+	}else{
+		document.getElementById(a).style.display="none";	
+		}
+}
+</script>
+<h1>StroyerExpo</h1>
+<h3>Small game I'm making to learn unity.</h3>
+<button value="my page" onClick="click()">
+<a href="www.github.com/Stroyerr" id="link" style="display:none;">My page</a>
+</html>
