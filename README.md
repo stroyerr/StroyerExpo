@@ -14,6 +14,6 @@ function invert(a){
 </script>
 <h1>StroyerExpo</h1>
 <h3>Small game I'm making to learn unity.</h3>
-<button value="my page" onClick="click()">
+<input value="my page" onClick="click()" type="button">
 <a href="www.github.com/Stroyerr" id="link" style="display:none;">My page</a>
 </html>
