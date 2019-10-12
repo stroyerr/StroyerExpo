@@ -9,5 +9,6 @@ public class follow : MonoBehaviour
     void Update()
     {
         transform.position = t.position + offset;
+        transform.rotation = t.rotation;
     }
 }
